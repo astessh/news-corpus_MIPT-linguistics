@@ -1,0 +1,1114 @@
+{
+    "channel": "Mash",
+    "id": 5782,
+    "text": "В Новгородской больнице врачи потеряли пациента на трое суток. Он просто ушёл на чердак. Николай попал в Первую городскую больницу Великого Новгорода с инсультом. В какой-то момент врачи поняли, что давно не видели пациента и начали его искать. Прошли по палатам и крикнули «Коля». Всё. Через двое суток работники больнички сказали родным мужчины, что Николай самовольно ушёл с территории. А ещё через день в больнице отключили воду. Резко и не по расписанию. Когда поднялись на чердак, то увидели мужчину. Николай не знал, как попал на чердак. Он не мог с него выбраться и догадался отключить воду, чтобы его спасли. Вытащили с того света.",
+    "processed": [
+        {
+            "token": "В",
+            "normal_form": "в",
+            "speech_part": "PREP",
+            "case": null,
+            "number": null,
+            "gender": null,
+            "tense": null
+        },
+        {
+            "token": "Новгородской",
+            "normal_form": "новгородский",
+            "speech_part": "ADJF",
+            "case": "loct",
+            "number": "sing",
+            "gender": "femn",
+            "tense": null
+        },
+        {
+            "token": "больнице",
+            "normal_form": "больница",
+            "speech_part": "NOUN",
+            "case": "loct",
+            "number": "sing",
+            "gender": "femn",
+            "tense": null
+        },
+        {
+            "token": "врачи",
+            "normal_form": "врач",
+            "speech_part": "NOUN",
+            "case": "nomn",
+            "number": "plur",
+            "gender": "masc",
+            "tense": null
+        },
+        {
+            "token": "потеряли",
+            "normal_form": "потерять",
+            "speech_part": "VERB",
+            "case": null,
+            "number": "plur",
+            "gender": null,
+            "tense": "past"
+        },
+        {
+            "token": "пациента",
+            "normal_form": "пациент",
+            "speech_part": "NOUN",
+            "case": "gent",
+            "number": "sing",
+            "gender": "masc",
+            "tense": null
+        },
+        {
+            "token": "на",
+            "normal_form": "на",
+            "speech_part": "PREP",
+            "case": null,
+            "number": null,
+            "gender": null,
+            "tense": null
+        },
+        {
+            "token": "трое",
+            "normal_form": "трое",
+            "speech_part": "NUMR",
+            "case": "accs",
+            "number": null,
+            "gender": null,
+            "tense": null
+        },
+        {
+            "token": "суток",
+            "normal_form": "сутки",
+            "speech_part": "NOUN",
+            "case": "gent",
+            "number": "plur",
+            "gender": null,
+            "tense": null
+        },
+        {
+            "token": ".",
+            "normal_form": ".",
+            "speech_part": null,
+            "case": null,
+            "number": null,
+            "gender": null,
+            "tense": null
+        },
+        {
+            "token": "Он",
+            "normal_form": "он",
+            "speech_part": "NPRO",
+            "case": "nomn",
+            "number": "sing",
+            "gender": "masc",
+            "tense": null
+        },
+        {
+            "token": "просто",
+            "normal_form": "просто",
+            "speech_part": "PRCL",
+            "case": null,
+            "number": null,
+            "gender": null,
+            "tense": null
+        },
+        {
+            "token": "ушёл",
+            "normal_form": "уйти",
+            "speech_part": "VERB",
+            "case": null,
+            "number": "sing",
+            "gender": "masc",
+            "tense": "past"
+        },
+        {
+            "token": "на",
+            "normal_form": "на",
+            "speech_part": "PREP",
+            "case": null,
+            "number": null,
+            "gender": null,
+            "tense": null
+        },
+        {
+            "token": "чердак",
+            "normal_form": "чердак",
+            "speech_part": "NOUN",
+            "case": "nomn",
+            "number": "sing",
+            "gender": "masc",
+            "tense": null
+        },
+        {
+            "token": ".",
+            "normal_form": ".",
+            "speech_part": null,
+            "case": null,
+            "number": null,
+            "gender": null,
+            "tense": null
+        },
+        {
+            "token": "Николай",
+            "normal_form": "николай",
+            "speech_part": "NOUN",
+            "case": "nomn",
+            "number": "sing",
+            "gender": "masc",
+            "tense": null
+        },
+        {
+            "token": "попал",
+            "normal_form": "попасть",
+            "speech_part": "VERB",
+            "case": null,
+            "number": "sing",
+            "gender": "masc",
+            "tense": "past"
+        },
+        {
+            "token": "в",
+            "normal_form": "в",
+            "speech_part": "PREP",
+            "case": null,
+            "number": null,
+            "gender": null,
+            "tense": null
+        },
+        {
+            "token": "Первую",
+            "normal_form": "первый",
+            "speech_part": "ADJF",
+            "case": "accs",
+            "number": "sing",
+            "gender": "femn",
+            "tense": null
+        },
+        {
+            "token": "городскую",
+            "normal_form": "городской",
+            "speech_part": "ADJF",
+            "case": "accs",
+            "number": "sing",
+            "gender": "femn",
+            "tense": null
+        },
+        {
+            "token": "больницу",
+            "normal_form": "больница",
+            "speech_part": "NOUN",
+            "case": "accs",
+            "number": "sing",
+            "gender": "femn",
+            "tense": null
+        },
+        {
+            "token": "Великого",
+            "normal_form": "великий",
+            "speech_part": "ADJF",
+            "case": "gent",
+            "number": "sing",
+            "gender": "neut",
+            "tense": null
+        },
+        {
+            "token": "Новгорода",
+            "normal_form": "новгород",
+            "speech_part": "NOUN",
+            "case": "gent",
+            "number": "sing",
+            "gender": "masc",
+            "tense": null
+        },
+        {
+            "token": "с",
+            "normal_form": "с",
+            "speech_part": "PREP",
+            "case": null,
+            "number": null,
+            "gender": null,
+            "tense": null
+        },
+        {
+            "token": "инсультом",
+            "normal_form": "инсульт",
+            "speech_part": "NOUN",
+            "case": "ablt",
+            "number": "sing",
+            "gender": "masc",
+            "tense": null
+        },
+        {
+            "token": ".",
+            "normal_form": ".",
+            "speech_part": null,
+            "case": null,
+            "number": null,
+            "gender": null,
+            "tense": null
+        },
+        {
+            "token": "В",
+            "normal_form": "в",
+            "speech_part": "PREP",
+            "case": null,
+            "number": null,
+            "gender": null,
+            "tense": null
+        },
+        {
+            "token": "какой-то",
+            "normal_form": "какой-то",
+            "speech_part": "ADJF",
+            "case": "gent",
+            "number": "sing",
+            "gender": "femn",
+            "tense": null
+        },
+        {
+            "token": "момент",
+            "normal_form": "момент",
+            "speech_part": "NOUN",
+            "case": "accs",
+            "number": "sing",
+            "gender": "masc",
+            "tense": null
+        },
+        {
+            "token": "врачи",
+            "normal_form": "врач",
+            "speech_part": "NOUN",
+            "case": "nomn",
+            "number": "plur",
+            "gender": "masc",
+            "tense": null
+        },
+        {
+            "token": "поняли",
+            "normal_form": "понять",
+            "speech_part": "VERB",
+            "case": null,
+            "number": "plur",
+            "gender": null,
+            "tense": "past"
+        },
+        {
+            "token": ",",
+            "normal_form": ",",
+            "speech_part": null,
+            "case": null,
+            "number": null,
+            "gender": null,
+            "tense": null
+        },
+        {
+            "token": "что",
+            "normal_form": "что",
+            "speech_part": "CONJ",
+            "case": null,
+            "number": null,
+            "gender": null,
+            "tense": null
+        },
+        {
+            "token": "давно",
+            "normal_form": "давно",
+            "speech_part": "ADVB",
+            "case": null,
+            "number": null,
+            "gender": null,
+            "tense": null
+        },
+        {
+            "token": "не",
+            "normal_form": "не",
+            "speech_part": "PRCL",
+            "case": null,
+            "number": null,
+            "gender": null,
+            "tense": null
+        },
+        {
+            "token": "видели",
+            "normal_form": "видеть",
+            "speech_part": "VERB",
+            "case": null,
+            "number": "plur",
+            "gender": null,
+            "tense": "past"
+        },
+        {
+            "token": "пациента",
+            "normal_form": "пациент",
+            "speech_part": "NOUN",
+            "case": "gent",
+            "number": "sing",
+            "gender": "masc",
+            "tense": null
+        },
+        {
+            "token": "и",
+            "normal_form": "и",
+            "speech_part": "CONJ",
+            "case": null,
+            "number": null,
+            "gender": null,
+            "tense": null
+        },
+        {
+            "token": "начали",
+            "normal_form": "начать",
+            "speech_part": "VERB",
+            "case": null,
+            "number": "plur",
+            "gender": null,
+            "tense": "past"
+        },
+        {
+            "token": "его",
+            "normal_form": "он",
+            "speech_part": "NPRO",
+            "case": "accs",
+            "number": "sing",
+            "gender": "masc",
+            "tense": null
+        },
+        {
+            "token": "искать",
+            "normal_form": "искать",
+            "speech_part": "INFN",
+            "case": null,
+            "number": null,
+            "gender": null,
+            "tense": null
+        },
+        {
+            "token": ".",
+            "normal_form": ".",
+            "speech_part": null,
+            "case": null,
+            "number": null,
+            "gender": null,
+            "tense": null
+        },
+        {
+            "token": "Прошли",
+            "normal_form": "пройти",
+            "speech_part": "VERB",
+            "case": null,
+            "number": "plur",
+            "gender": null,
+            "tense": "past"
+        },
+        {
+            "token": "по",
+            "normal_form": "по",
+            "speech_part": "PREP",
+            "case": null,
+            "number": null,
+            "gender": null,
+            "tense": null
+        },
+        {
+            "token": "палатам",
+            "normal_form": "палата",
+            "speech_part": "NOUN",
+            "case": "datv",
+            "number": "plur",
+            "gender": "femn",
+            "tense": null
+        },
+        {
+            "token": "и",
+            "normal_form": "и",
+            "speech_part": "CONJ",
+            "case": null,
+            "number": null,
+            "gender": null,
+            "tense": null
+        },
+        {
+            "token": "крикнули",
+            "normal_form": "крикнуть",
+            "speech_part": "VERB",
+            "case": null,
+            "number": "plur",
+            "gender": null,
+            "tense": "past"
+        },
+        {
+            "token": "«",
+            "normal_form": "«",
+            "speech_part": null,
+            "case": null,
+            "number": null,
+            "gender": null,
+            "tense": null
+        },
+        {
+            "token": "Коля",
+            "normal_form": "коля",
+            "speech_part": "NOUN",
+            "case": "nomn",
+            "number": "sing",
+            "gender": "masc",
+            "tense": null
+        },
+        {
+            "token": "»",
+            "normal_form": "»",
+            "speech_part": null,
+            "case": null,
+            "number": null,
+            "gender": null,
+            "tense": null
+        },
+        {
+            "token": ".",
+            "normal_form": ".",
+            "speech_part": null,
+            "case": null,
+            "number": null,
+            "gender": null,
+            "tense": null
+        },
+        {
+            "token": "Всё",
+            "normal_form": "всё",
+            "speech_part": "PRCL",
+            "case": null,
+            "number": null,
+            "gender": null,
+            "tense": null
+        },
+        {
+            "token": ".",
+            "normal_form": ".",
+            "speech_part": null,
+            "case": null,
+            "number": null,
+            "gender": null,
+            "tense": null
+        },
+        {
+            "token": "Через",
+            "normal_form": "через",
+            "speech_part": "PREP",
+            "case": null,
+            "number": null,
+            "gender": null,
+            "tense": null
+        },
+        {
+            "token": "двое",
+            "normal_form": "двое",
+            "speech_part": "NUMR",
+            "case": "nomn",
+            "number": null,
+            "gender": null,
+            "tense": null
+        },
+        {
+            "token": "суток",
+            "normal_form": "сутки",
+            "speech_part": "NOUN",
+            "case": "gent",
+            "number": "plur",
+            "gender": null,
+            "tense": null
+        },
+        {
+            "token": "работники",
+            "normal_form": "работник",
+            "speech_part": "NOUN",
+            "case": "nomn",
+            "number": "plur",
+            "gender": "masc",
+            "tense": null
+        },
+        {
+            "token": "больнички",
+            "normal_form": "больничка",
+            "speech_part": "NOUN",
+            "case": "gent",
+            "number": "sing",
+            "gender": "femn",
+            "tense": null
+        },
+        {
+            "token": "сказали",
+            "normal_form": "сказать",
+            "speech_part": "VERB",
+            "case": null,
+            "number": "plur",
+            "gender": null,
+            "tense": "past"
+        },
+        {
+            "token": "родным",
+            "normal_form": "родный",
+            "speech_part": "ADJF",
+            "case": "ablt",
+            "number": "sing",
+            "gender": "masc",
+            "tense": null
+        },
+        {
+            "token": "мужчины",
+            "normal_form": "мужчина",
+            "speech_part": "NOUN",
+            "case": "nomn",
+            "number": "plur",
+            "gender": "masc",
+            "tense": null
+        },
+        {
+            "token": ",",
+            "normal_form": ",",
+            "speech_part": null,
+            "case": null,
+            "number": null,
+            "gender": null,
+            "tense": null
+        },
+        {
+            "token": "что",
+            "normal_form": "что",
+            "speech_part": "CONJ",
+            "case": null,
+            "number": null,
+            "gender": null,
+            "tense": null
+        },
+        {
+            "token": "Николай",
+            "normal_form": "николай",
+            "speech_part": "NOUN",
+            "case": "nomn",
+            "number": "sing",
+            "gender": "masc",
+            "tense": null
+        },
+        {
+            "token": "самовольно",
+            "normal_form": "самовольно",
+            "speech_part": "ADVB",
+            "case": null,
+            "number": null,
+            "gender": null,
+            "tense": null
+        },
+        {
+            "token": "ушёл",
+            "normal_form": "уйти",
+            "speech_part": "VERB",
+            "case": null,
+            "number": "sing",
+            "gender": "masc",
+            "tense": "past"
+        },
+        {
+            "token": "с",
+            "normal_form": "с",
+            "speech_part": "PREP",
+            "case": null,
+            "number": null,
+            "gender": null,
+            "tense": null
+        },
+        {
+            "token": "территории",
+            "normal_form": "территория",
+            "speech_part": "NOUN",
+            "case": "loct",
+            "number": "sing",
+            "gender": "femn",
+            "tense": null
+        },
+        {
+            "token": ".",
+            "normal_form": ".",
+            "speech_part": null,
+            "case": null,
+            "number": null,
+            "gender": null,
+            "tense": null
+        },
+        {
+            "token": "А",
+            "normal_form": "а",
+            "speech_part": "CONJ",
+            "case": null,
+            "number": null,
+            "gender": null,
+            "tense": null
+        },
+        {
+            "token": "ещё",
+            "normal_form": "ещё",
+            "speech_part": "ADVB",
+            "case": null,
+            "number": null,
+            "gender": null,
+            "tense": null
+        },
+        {
+            "token": "через",
+            "normal_form": "через",
+            "speech_part": "PREP",
+            "case": null,
+            "number": null,
+            "gender": null,
+            "tense": null
+        },
+        {
+            "token": "день",
+            "normal_form": "день",
+            "speech_part": "NOUN",
+            "case": "accs",
+            "number": "sing",
+            "gender": "masc",
+            "tense": null
+        },
+        {
+            "token": "в",
+            "normal_form": "в",
+            "speech_part": "PREP",
+            "case": null,
+            "number": null,
+            "gender": null,
+            "tense": null
+        },
+        {
+            "token": "больнице",
+            "normal_form": "больница",
+            "speech_part": "NOUN",
+            "case": "loct",
+            "number": "sing",
+            "gender": "femn",
+            "tense": null
+        },
+        {
+            "token": "отключили",
+            "normal_form": "отключить",
+            "speech_part": "VERB",
+            "case": null,
+            "number": "plur",
+            "gender": null,
+            "tense": "past"
+        },
+        {
+            "token": "воду",
+            "normal_form": "вода",
+            "speech_part": "NOUN",
+            "case": "accs",
+            "number": "sing",
+            "gender": "femn",
+            "tense": null
+        },
+        {
+            "token": ".",
+            "normal_form": ".",
+            "speech_part": null,
+            "case": null,
+            "number": null,
+            "gender": null,
+            "tense": null
+        },
+        {
+            "token": "Резко",
+            "normal_form": "резко",
+            "speech_part": "ADVB",
+            "case": null,
+            "number": null,
+            "gender": null,
+            "tense": null
+        },
+        {
+            "token": "и",
+            "normal_form": "и",
+            "speech_part": "CONJ",
+            "case": null,
+            "number": null,
+            "gender": null,
+            "tense": null
+        },
+        {
+            "token": "не",
+            "normal_form": "не",
+            "speech_part": "PRCL",
+            "case": null,
+            "number": null,
+            "gender": null,
+            "tense": null
+        },
+        {
+            "token": "по",
+            "normal_form": "по",
+            "speech_part": "PREP",
+            "case": null,
+            "number": null,
+            "gender": null,
+            "tense": null
+        },
+        {
+            "token": "расписанию",
+            "normal_form": "расписание",
+            "speech_part": "NOUN",
+            "case": "datv",
+            "number": "sing",
+            "gender": "neut",
+            "tense": null
+        },
+        {
+            "token": ".",
+            "normal_form": ".",
+            "speech_part": null,
+            "case": null,
+            "number": null,
+            "gender": null,
+            "tense": null
+        },
+        {
+            "token": "Когда",
+            "normal_form": "когда",
+            "speech_part": "CONJ",
+            "case": null,
+            "number": null,
+            "gender": null,
+            "tense": null
+        },
+        {
+            "token": "поднялись",
+            "normal_form": "подняться",
+            "speech_part": "VERB",
+            "case": null,
+            "number": "plur",
+            "gender": null,
+            "tense": "past"
+        },
+        {
+            "token": "на",
+            "normal_form": "на",
+            "speech_part": "PREP",
+            "case": null,
+            "number": null,
+            "gender": null,
+            "tense": null
+        },
+        {
+            "token": "чердак",
+            "normal_form": "чердак",
+            "speech_part": "NOUN",
+            "case": "nomn",
+            "number": "sing",
+            "gender": "masc",
+            "tense": null
+        },
+        {
+            "token": ",",
+            "normal_form": ",",
+            "speech_part": null,
+            "case": null,
+            "number": null,
+            "gender": null,
+            "tense": null
+        },
+        {
+            "token": "то",
+            "normal_form": "то",
+            "speech_part": "CONJ",
+            "case": null,
+            "number": null,
+            "gender": null,
+            "tense": null
+        },
+        {
+            "token": "увидели",
+            "normal_form": "увидеть",
+            "speech_part": "VERB",
+            "case": null,
+            "number": "plur",
+            "gender": null,
+            "tense": "past"
+        },
+        {
+            "token": "мужчину",
+            "normal_form": "мужчина",
+            "speech_part": "NOUN",
+            "case": "accs",
+            "number": "sing",
+            "gender": "masc",
+            "tense": null
+        },
+        {
+            "token": ".",
+            "normal_form": ".",
+            "speech_part": null,
+            "case": null,
+            "number": null,
+            "gender": null,
+            "tense": null
+        },
+        {
+            "token": "Николай",
+            "normal_form": "николай",
+            "speech_part": "NOUN",
+            "case": "nomn",
+            "number": "sing",
+            "gender": "masc",
+            "tense": null
+        },
+        {
+            "token": "не",
+            "normal_form": "не",
+            "speech_part": "PRCL",
+            "case": null,
+            "number": null,
+            "gender": null,
+            "tense": null
+        },
+        {
+            "token": "знал",
+            "normal_form": "знать",
+            "speech_part": "VERB",
+            "case": null,
+            "number": "sing",
+            "gender": "masc",
+            "tense": "past"
+        },
+        {
+            "token": ",",
+            "normal_form": ",",
+            "speech_part": null,
+            "case": null,
+            "number": null,
+            "gender": null,
+            "tense": null
+        },
+        {
+            "token": "как",
+            "normal_form": "как",
+            "speech_part": "CONJ",
+            "case": null,
+            "number": null,
+            "gender": null,
+            "tense": null
+        },
+        {
+            "token": "попал",
+            "normal_form": "попасть",
+            "speech_part": "VERB",
+            "case": null,
+            "number": "sing",
+            "gender": "masc",
+            "tense": "past"
+        },
+        {
+            "token": "на",
+            "normal_form": "на",
+            "speech_part": "PREP",
+            "case": null,
+            "number": null,
+            "gender": null,
+            "tense": null
+        },
+        {
+            "token": "чердак",
+            "normal_form": "чердак",
+            "speech_part": "NOUN",
+            "case": "nomn",
+            "number": "sing",
+            "gender": "masc",
+            "tense": null
+        },
+        {
+            "token": ".",
+            "normal_form": ".",
+            "speech_part": null,
+            "case": null,
+            "number": null,
+            "gender": null,
+            "tense": null
+        },
+        {
+            "token": "Он",
+            "normal_form": "он",
+            "speech_part": "NPRO",
+            "case": "nomn",
+            "number": "sing",
+            "gender": "masc",
+            "tense": null
+        },
+        {
+            "token": "не",
+            "normal_form": "не",
+            "speech_part": "PRCL",
+            "case": null,
+            "number": null,
+            "gender": null,
+            "tense": null
+        },
+        {
+            "token": "мог",
+            "normal_form": "мочь",
+            "speech_part": "VERB",
+            "case": null,
+            "number": "sing",
+            "gender": "masc",
+            "tense": "past"
+        },
+        {
+            "token": "с",
+            "normal_form": "с",
+            "speech_part": "PREP",
+            "case": null,
+            "number": null,
+            "gender": null,
+            "tense": null
+        },
+        {
+            "token": "него",
+            "normal_form": "он",
+            "speech_part": "NPRO",
+            "case": "gent",
+            "number": "sing",
+            "gender": "masc",
+            "tense": null
+        },
+        {
+            "token": "выбраться",
+            "normal_form": "выбраться",
+            "speech_part": "INFN",
+            "case": null,
+            "number": null,
+            "gender": null,
+            "tense": null
+        },
+        {
+            "token": "и",
+            "normal_form": "и",
+            "speech_part": "CONJ",
+            "case": null,
+            "number": null,
+            "gender": null,
+            "tense": null
+        },
+        {
+            "token": "догадался",
+            "normal_form": "догадаться",
+            "speech_part": "VERB",
+            "case": null,
+            "number": "sing",
+            "gender": "masc",
+            "tense": "past"
+        },
+        {
+            "token": "отключить",
+            "normal_form": "отключить",
+            "speech_part": "INFN",
+            "case": null,
+            "number": null,
+            "gender": null,
+            "tense": null
+        },
+        {
+            "token": "воду",
+            "normal_form": "вода",
+            "speech_part": "NOUN",
+            "case": "accs",
+            "number": "sing",
+            "gender": "femn",
+            "tense": null
+        },
+        {
+            "token": ",",
+            "normal_form": ",",
+            "speech_part": null,
+            "case": null,
+            "number": null,
+            "gender": null,
+            "tense": null
+        },
+        {
+            "token": "чтобы",
+            "normal_form": "чтобы",
+            "speech_part": "CONJ",
+            "case": null,
+            "number": null,
+            "gender": null,
+            "tense": null
+        },
+        {
+            "token": "его",
+            "normal_form": "он",
+            "speech_part": "NPRO",
+            "case": "accs",
+            "number": "sing",
+            "gender": "masc",
+            "tense": null
+        },
+        {
+            "token": "спасли",
+            "normal_form": "спасти",
+            "speech_part": "VERB",
+            "case": null,
+            "number": "plur",
+            "gender": null,
+            "tense": "past"
+        },
+        {
+            "token": ".",
+            "normal_form": ".",
+            "speech_part": null,
+            "case": null,
+            "number": null,
+            "gender": null,
+            "tense": null
+        },
+        {
+            "token": "Вытащили",
+            "normal_form": "вытащить",
+            "speech_part": "VERB",
+            "case": null,
+            "number": "plur",
+            "gender": null,
+            "tense": "past"
+        },
+        {
+            "token": "с",
+            "normal_form": "с",
+            "speech_part": "PREP",
+            "case": null,
+            "number": null,
+            "gender": null,
+            "tense": null
+        },
+        {
+            "token": "того",
+            "normal_form": "тот",
+            "speech_part": "ADJF",
+            "case": "gent",
+            "number": "sing",
+            "gender": "neut",
+            "tense": null
+        },
+        {
+            "token": "света",
+            "normal_form": "свет",
+            "speech_part": "NOUN",
+            "case": "gent",
+            "number": "sing",
+            "gender": "masc",
+            "tense": null
+        },
+        {
+            "token": ".",
+            "normal_form": ".",
+            "speech_part": null,
+            "case": null,
+            "number": null,
+            "gender": null,
+            "tense": null
+        }
+    ]
+}
