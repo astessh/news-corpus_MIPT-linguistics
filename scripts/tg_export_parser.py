@@ -1,6 +1,5 @@
 import json
 import sys
-import csv
 
 with open('filtered.json', 'w+', encoding='utf-8') as f:        
     output = []

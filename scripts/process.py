@@ -1,9 +1,10 @@
-import sys
-import re
-import nltk
-from nltk.tokenize import word_tokenize
-import pymorphy2
 import json
+import nltk
+import pymorphy2
+import re
+import sys
+
+from nltk.tokenize import word_tokenize
 
 nltk.download('punkt')
 
